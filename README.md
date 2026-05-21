@@ -35,24 +35,24 @@
 
 ## 📂 Dataset Information
 - The dataset contains customer shopping behavior data including:
-- Column	                    ---    Description
-- Customer                         ID	Unique customer identifier
-- Age	                             Customer age
-- Gender	                         Male/Female
-- Item Purchased	                 Purchased product
-- Category	                       Product category
-- Purchase Amount	                 Purchase value in USD
-- Location	                       Customer location
-- Size	                           Product size
-- Color	                           Product color
-- Season	                         Purchase season
-- Review Rating                    Customer rating
-- Subscription Status	             Subscription membership
-- Shipping Type	                   Shipping method
-- Discount Applied	               Discount usage
-- Previous Purchases	             Customer loyalty indicator
-- Payment Method	                 Payment method
-- Frequency of Purchases	         Purchase frequency
+- Column	                   
+- Customer                   
+- Age	                             
+- Gender	                      
+- Item Purchased	                
+- Category
+- Purchase Amount	                
+- Location	                      
+- Size	                          
+- Color	                          
+- Season	                        
+- Review Rating                   
+- Subscription Status	            
+- Shipping Type	                  
+- Discount Applied	               
+- Previous Purchases	            
+- Payment Method	                 
+- Frequency of Purchases	         
 
 ---
 
@@ -72,3 +72,119 @@
 
 ---
 
+##3️⃣ Feature Engineering
+- Created new business-related features:
+- ✅ Age Group Segmentation
+- ✅ Purchase Frequency Mapping
+
+---
+
+##4️⃣ Database Integration
+- Connected Python with PostgreSQL using SQLAlchemy.
+
+---
+
+## 🧠 Business Questions Solved Using SQL
+
+### ✅ Revenue Analysis
+- Total revenue generated
+- Revenue by gender
+- Revenue by age group
+
+---
+
+### ✅ Customer Segmentation
+- New customers
+- Returning customers
+- Loyal customers
+
+---
+
+### ✅ Product Analysis
+- Top purchased products
+- Top-rated products
+- Category performance
+
+---
+
+### ✅ Subscription Analysis
+- Subscriber vs non-subscriber spending behavior
+- Revenue contribution
+
+---
+
+### ✅ Shipping & Purchase Behavior
+- Standard vs Express shipping comparison
+- Repeat buyer analysis
+
+---
+
+# 📈 Power BI Dashboard
+
+## The dashboard includes:
+📌 Executive KPIs
+- Total Revenue
+- Average Purchase Amount
+- Total Customers
+- Average Review Rating
+
+---
+
+📌 Customer Analysis
+- Gender Distribution
+- Age Group Analysis
+- Customer Loyalty Segmentation
+
+---
+
+📌 Product Analysis
+- Top Products
+- Revenue by Category
+- Seasonal Trends
+
+---
+
+📌 Behavioral Insights
+- Shipping Preferences
+- Payment Methods
+- Subscription Impact
+- Discount Effectiveness
+
+---
+
+## 🎯 Key Insights
+- Subscribers tend to spend more on average.
+- Clothing category generated the highest revenue.
+- Loyal customers contributed significantly to total sales.
+- Seasonal trends strongly affect purchasing behavior.
+- Discounts positively influenced high-value purchases.
+
+---
+
+## 🚀 Future Improvements
+- Predictive customer behavior modeling
+- Customer churn analysis
+- Recommendation system
+- Real-time dashboard integration
+- Machine learning forecasting
+
+---
+
+
+## 📚 Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- SQL Querying
+- PostgreSQL Database Management
+- Business Intelligence
+- Dashboard Development
+- Data Visualization
+- Analytical Thinking
+
+---
+
+👨‍💻 Author
+- Youssef Ayman
+- AI & Data Science Engineer
+- Data Analytics & Machine Learning Enthusiast
