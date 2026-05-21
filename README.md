@@ -35,7 +35,7 @@
 
 ## 📂 Dataset Information
 - The dataset contains customer shopping behavior data including:
-- Column	                    -    Description
+- Column	                    ---    Description
 - Customer                         ID	Unique customer identifier
 - Age	                             Customer age
 - Gender	                         Male/Female
