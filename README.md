@@ -1,5 +1,5 @@
 # Customer Shopping Behavior Analysis Dashboard
-##📌 Project Overview
+📌 Project Overview
 -- This project focuses on analyzing customer shopping behavior using Python, PostgreSQL (SQL), and Power BI to extract meaningful business insights from customer purchasing data.
 
 ---
@@ -35,7 +35,7 @@
 
 ## 📂 Dataset Information
 - The dataset contains customer shopping behavior data including:
-- Column	                         Description
+- Column	                    -    Description
 - Customer                         ID	Unique customer identifier
 - Age	                             Customer age
 - Gender	                         Male/Female
